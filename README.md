@@ -64,4 +64,12 @@ The trading volume for Google stock during the year provides insights into the p
 ### Google Stock Data Analysis (Comprehensive)
 #### Google Comprehensive Stock Price
 
-TBD
+### One Day Options data
+#### Results
+Based on the Model predictions after training the model,the top stock tickers to buy for the next day based on the model's predictions are:
+
+GOOG: 88.31%
+AMZN: 87.46%
+GOOGL: 86.77%
+XLRN: 85.21%
+SHOP: 81.34%
